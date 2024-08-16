@@ -17,5 +17,4 @@ The Expense Tracker is a C program designed to help users manage and track their
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-## Contact
-For any questions or issues, please contact Tisha Patel at [your-email@example.com].
+
